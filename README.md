@@ -12,6 +12,6 @@ We are provided with an anonymized dataset containing numeric feature variables,
 
 The task is to predict the value of target column in the test set.
 ## File descriptions   
-1.train.csv - the training set.
-2.test.csv - the test set. The test set contains some rows which are not included in scoring.
-3.sample_submission.csv - a sample submission file in the correct format.
+1.train.csv - the training set.  
+2.test.csv - the test set. The test set contains some rows which are not included in scoring.  
+3.sample_submission.csv - a sample submission file in the correct format.  
